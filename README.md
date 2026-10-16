@@ -1,5 +1,7 @@
 ## Emmanuel Zhang
 
+https://emmanuelzhang.medium.com
+https://www.capitalcanvas.org
 <!--
 **DaYeeMan/DaYeeMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
